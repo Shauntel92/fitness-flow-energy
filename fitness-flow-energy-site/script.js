@@ -1,7 +1,7 @@
 // REPLACE each gumroadUrl with the direct URL of that published Gumroad product.
 // Keep gumroadUrl empty for tracks that aren't on sale yet.
 const tracks = [
-  { slug:'fire-of-persepolis', title:'Fire of Persepolis', energy:'HIGH ENERGY', activity:'HIIT · Cardio', gumroadUrl:'' },
+  { slug:'fire-of-persepolis', title:'Fire of Persepolis', energy:'HIGH ENERGY', activity:'HIIT · Cardio', gumroadUrl:'https://flowfit7.gumroad.com/l/fire-of-persepolis?_gl=1*1l2pnzb*_ga*NTgxODQ4MjkuMTc5MTgzNTI0OA..*_ga_6LJN6D94N6*czE3OTE4OTk2MTQkbzMkZzAkdDE3OTE4OTk2MTQkajYwJGwwJGgw' },
   { slug:'hypnotic-groove', title:'Hypnotic Groove', energy:'STEADY RHYTHM', activity:'Pilates · Barre', gumroadUrl:'' },
   { slug:'imperial-fire', title:'Imperial Fire', energy:'HIGH ENERGY', activity:'Cardio · Strength', gumroadUrl:'' },
   { slug:'saffron', title:'Saffron', energy:'UPBEAT', activity:'Dance · Movement', gumroadUrl:'' },
