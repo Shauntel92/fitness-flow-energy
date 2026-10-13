@@ -1,4 +1,4 @@
-# fitness.flow.energy — simplified GitHub Pages website
+# fitness.flow.energy — GitHub Pages website
 
 This version uses Gumroad for all purchases and YouTube for all listening. There are no hosted MP3 previews and no per-track Gumroad URLs.
 
