@@ -1,0 +1,50 @@
+[
+  {
+    "slug": "fire-of-persepolis",
+    "title": "Fire of Persepolis",
+    "energy": "High energy",
+    "use": "HIIT \u00b7 Cardio",
+    "price": "$14.99",
+    "gumroadUrl": "#"
+  },
+  {
+    "slug": "hypnotic-groove",
+    "title": "Hypnotic Groove",
+    "energy": "Steady rhythm",
+    "use": "Pilates \u00b7 Barre",
+    "price": "$14.99",
+    "gumroadUrl": "#"
+  },
+  {
+    "slug": "imperial-fire",
+    "title": "Imperial Fire",
+    "energy": "High energy",
+    "use": "Cardio \u00b7 Strength",
+    "price": "$14.99",
+    "gumroadUrl": "#"
+  },
+  {
+    "slug": "saffron",
+    "title": "Saffron",
+    "energy": "Upbeat",
+    "use": "Dance \u00b7 Movement",
+    "price": "$14.99",
+    "gumroadUrl": "#"
+  },
+  {
+    "slug": "persian-energy",
+    "title": "Persian Energy",
+    "energy": "High energy",
+    "use": "Cardio \u00b7 Movement",
+    "price": "$14.99",
+    "gumroadUrl": "#"
+  },
+  {
+    "slug": "night-race",
+    "title": "Night Race",
+    "energy": "Driving rhythm",
+    "use": "Strength \u00b7 Cardio",
+    "price": "$14.99",
+    "gumroadUrl": "#"
+  }
+]
